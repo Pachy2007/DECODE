@@ -18,7 +18,7 @@ public class Shooter {
 
     public void shoot()
     {
-        motor.setPower(0.865);
+        motor.setPower(0.86);
     }
 
     public void pause()
